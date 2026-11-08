@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_intersecting_segment_FILE /home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/intersecting_segment)
+set(__QT_DEPLOY_TARGET_intersecting_segment_TYPE EXECUTABLE)

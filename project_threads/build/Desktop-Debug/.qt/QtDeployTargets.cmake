@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_GrahamParallel_FILE /home/vboxuser/comp_geom/project_threads/build/Desktop-Debug/GrahamParallel)
+set(__QT_DEPLOY_TARGET_GrahamParallel_TYPE EXECUTABLE)

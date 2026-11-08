@@ -1,0 +1,5 @@
+/home/vboxuser/comp_geom/project_threads/build/Desktop-Debug/CMakeFiles/GrahamParallel.dir
+/home/vboxuser/comp_geom/project_threads/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/comp_geom/project_threads/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/comp_geom/project_threads/build/Desktop-Debug/CMakeFiles/GrahamParallel_autogen_timestamp_deps.dir
+/home/vboxuser/comp_geom/project_threads/build/Desktop-Debug/CMakeFiles/GrahamParallel_autogen.dir

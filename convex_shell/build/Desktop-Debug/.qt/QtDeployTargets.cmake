@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_convex_shell_FILE /home/vboxuser/comp_geom/convex_shell/build/Desktop-Debug/convex_shell)
+set(__QT_DEPLOY_TARGET_convex_shell_TYPE EXECUTABLE)

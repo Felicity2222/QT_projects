@@ -1,0 +1,9 @@
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/intersecting_segment.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/install.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/intersecting_segment_autogen_timestamp_deps.dir
+/home/vboxuser/comp_geom/intersecting_segment/build/Desktop-Debug/CMakeFiles/intersecting_segment_autogen.dir

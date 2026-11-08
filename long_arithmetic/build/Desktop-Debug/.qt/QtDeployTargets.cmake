@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_long_arithmetic_FILE /home/vboxuser/comp_geom/long_arithmetic/build/Desktop-Debug/long_arithmetic)
+set(__QT_DEPLOY_TARGET_long_arithmetic_TYPE EXECUTABLE)
